@@ -1,0 +1,7 @@
+node_modules
+.expo
+dist/main.js
+
+# macOS
+.DS_Store
+**/.DS_Store
